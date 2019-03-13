@@ -1,6 +1,6 @@
-# typescript-base-project
+# ts-base
 
-This is just a simple boilerplate for typescript basic projects.
+Typescript simple bootstrap project (with webpack)
 
 `yarn`
 
