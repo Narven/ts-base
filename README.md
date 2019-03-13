@@ -2,6 +2,14 @@
 
 Typescript simple bootstrap project (with webpack)
 
-`yarn`
+Get it:
 
-`yarn start`
+```shell
+git clone git@github.com:Narven/ts-base.git && yarn
+```
+
+Run:
+
+```shell
+yarn start
+```
