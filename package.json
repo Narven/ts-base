@@ -1,8 +1,13 @@
 {
-  "name": "typescript-base-project",
-  "version": "0.0.2",
+  "name": "ts-base",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "license": "MIT",
+  "author": {
+    "email": "pedromsluz@gmail.com",
+    "name": "Pedro Luz",
+    "url": "https://pedromsluz.co.uk"
+  },
   "scripts": {
     "start": "webpack --config=./config/webpack.config.js"
   },
